@@ -1,5 +1,5 @@
-# repo-template-python
-This is a template repository for data science projects done in Python.
+# repo-template-huggingface
+This is a template repository for data science projects done using huggingface.
 
 ### Using this template
 To use the following template, click the "Use This Template button" and follow the instructions to create a new repository.  Fill out the information below, deleting parts that are not specific to your project (e.g., Prerequisites).  This template contains a number of code templates in the modeling sections (40-90 series), which may be deleted and renumbered according to the project objectives.  The format of this repository goes well with nbdev.  Take a look at the documentation there and review the tutorials to get the best usage out of this repository.  See the `box-authentication` notebook if you need to do authentication via Box (for projects with security contracts or PII data).  Note that this authentication method is not currently guaranteed to work on ACCRE.
@@ -12,7 +12,6 @@ To most easily run this code out of the box, the following packages must be inst
 * matplotlib
 * seaborn
 * great expectations
-* h2o
 * fastai
 * huggingface
 * datasets
@@ -80,7 +79,6 @@ All files which appear in the repo should be able to run, and not contain error 
 * **Data science packages in Python**: [Python Data Science Handbook, Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/) 
 * **HuggingFace**: [Website](https://huggingface.co/transformers/index.html), [Course/Training](https://huggingface.co/course/chapter1), [Inference using pipelines](https://huggingface.co/transformers/task_summary.html), [Fine tuning models](https://huggingface.co/transformers/training.html)
 * **fast.ai**: [Course](https://course.fast.ai/), [Quick start](https://docs.fast.ai/quick_start.html)
-* **h2o**: [Resources, documentation, and API links](https://docs.h2o.ai/#h2o)
 * **nbdev**: [Overview](https://nbdev.fast.ai/), [Tutorial](https://nbdev.fast.ai/tutorial.html)
 * **Git tutorials**: [Simple Guide](https://rogerdudler.github.io/git-guide/), [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 * **ACCRE how-to guides**: [DSI How-tos](https://github.com/vanderbilt-data-science/how-tos)  
