@@ -2,7 +2,11 @@
 This is a template repository for data science projects done using huggingface.
 
 ### Using this template
-To use the following template, click the "Use This Template button" and follow the instructions to create a new repository.  Fill out the information below, deleting parts that are not specific to your project (e.g., Prerequisites).  This template contains a number of code templates in the modeling sections (40-90 series), which may be deleted and renumbered according to the project objectives.  The format of this repository goes well with nbdev.  Take a look at the documentation there and review the tutorials to get the best usage out of this repository.  See the `box-authentication` notebook if you need to do authentication via Box (for projects with security contracts or PII data).  Note that this authentication method is not currently guaranteed to work on ACCRE.
+To use the following template, click the "Use This Template button" and follow the instructions to create a new repository.  Fill out the information below, deleting parts that are not specific to your project (e.g., Prerequisites).
+
+This template contains a number of code templates which may be deleted and renumbered according to the project objectives.
+
+Finally, this repo is best used with Google Colab. The current notebooks contain `Open In Colab` badges. The redirection on these badges **must be changed after you've created your repo from the template. Do this before the first use of the notebooks.**
 
 ### Prerequisites
 To most easily run this code out of the box, the following packages must be installed:
